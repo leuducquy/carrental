@@ -21,7 +21,7 @@ function App() {
         <Route path="team" element={<Team />} />
         <Route path="contact" element={<Contact />} />
       </Routes>
-      <div className="fixed top-40 left-5 z-20">
+      <div className="fixed top-40 left-10 z-20">
             <SocialButton />
           </div>
       </div>
