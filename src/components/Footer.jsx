@@ -14,7 +14,7 @@ function Footer() {
               </li>
               <li>
                 <a href="tel:123456789">
-                  <i className="fa-solid fa-phone"></i> &nbsp; (123) -456-789
+                  <i className="fa-solid fa-phone"></i> &nbsp; +84 966494779
                 </a>
               </li>
 
@@ -24,7 +24,7 @@ function Footer() {
                 carrental@gmail.com"
                 >
                   <i className="fa-solid fa-envelope"></i>
-                  &nbsp; calebjephuneh@gmail.com
+                  &nbsp; leuducquy@gmail.com
                 </a>
               </li>
 
@@ -43,7 +43,7 @@ function Footer() {
             <ul className="footer-content__2">
               <li>Company</li>
               <li>
-                <a href="#home">New York</a>
+                <a href="#home">Hà Nôi</a>
               </li>
               <li>
                 <a href="#home">Careers</a>

@@ -7,10 +7,11 @@ import Models from "./Pages/Models";
 import TestimonialsPage from "./Pages/TestimonialsPage";
 import Team from "./Pages/Team";
 import Contact from "./Pages/Contact";
-
+import  SocialButton from './components/SocialButton.tsx'
 function App() {
   return (
     <>
+      <div className="relative">
       <Navbar />
       <Routes>
         <Route index path="/" element={<Home />} />
@@ -20,6 +21,10 @@ function App() {
         <Route path="team" element={<Team />} />
         <Route path="contact" element={<Contact />} />
       </Routes>
+      <div className="fixed top-40 left-5 z-20">
+            <SocialButton />
+          </div>
+      </div>
     </>
   );
 }
