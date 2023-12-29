@@ -35,7 +35,7 @@ function Footer() {
                   rel="noreferrer"
                   href="https://jephunneh.com/"
                 >
-                  Design by cjephuneh
+                  Design by Lều Đức Quý
                 </a>
               </li>
             </ul>
